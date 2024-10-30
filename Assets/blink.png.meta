@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,238 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: blink_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbbb9c787c147c459cf5940716e5322
+      internalID: 1901960557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c598a5bfdd22787408a2340b2d60a3ec
+      internalID: 288662987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaa0509b43690d4bb6dba8b2a47be2c
+      internalID: -1658000272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 53
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abc7e86cbc3bd14ab6d6bf2faa0e042
+      internalID: 1746933835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_4
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fcffd1d1d402847a221f6cfa0de7d5
+      internalID: 920965408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_5
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9e81b3a181114980b246dcd681265
+      internalID: -1623327604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_6
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21446cb8b1cbf2b4785853916a5432cd
+      internalID: -1069282476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_7
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 53
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc772ebb0d0654fb6155d3a2353388
+      internalID: -1259516419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_8
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14304b0d40598b640b108bba9935eba5
+      internalID: 502415448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_9
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8383b28cdd0a20a4687161b7ab49dcac
+      internalID: 1178731681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blink_10
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef66d40dd85fc842bdc595afc73b8e8
+      internalID: 1569394839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +363,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blink_0: 1901960557
+      blink_1: 288662987
+      blink_10: 1569394839
+      blink_2: -1658000272
+      blink_3: 1746933835
+      blink_4: 920965408
+      blink_5: -1623327604
+      blink_6: -1069282476
+      blink_7: -1259516419
+      blink_8: 502415448
+      blink_9: 1178731681
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
